@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=KUnity LightDM
+Description=Inspired on Unity7 LightDM
+Author=AntoSalvatore
+Copyright=(c) 2022, AntoSalvatore
+License=GPL 3+
+Type=sddm-theme
+Version=1.0
+Website=
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=
+Theme-Id=KUnity-LightDM
+Theme-API=2.0
