@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#727272; } .ColorScheme-Highlight { color:#5294e2; }</style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M3 3v10h10V3z" font-family="sans-serif" font-weight="400" overflow="visible"/>
+</svg>

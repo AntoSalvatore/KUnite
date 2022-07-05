@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="preferences-desktop-thunderbolt.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="17.4375"
+     inkscape:cx="5.1899642"
+     inkscape:cy="7.9713262"
+     inkscape:window-width="1310"
+     inkscape:window-height="742"
+     inkscape:window-x="56"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#727272; } .ColorScheme-Highlight { color:#5294e2; }</style>
+  </defs>
+  <g
+     id="g830"
+     transform="matrix(0.75,0,0,0.75,2.0000036,1.99925)">
+    <path
+       d="m 7.852,6 h 3.693 l -4.338,6.241 1.672,0.174 -4.184,3.578 1.964,-1.036 c 0.318,0.038 1.01,0.064 1.337,0.064 A 7.005,7.005 0 0 0 15,8.015 C 14.984,5.547 13.72,3.008 10.997,1.685 l 0.16,-1.676 z"
+       style="fill:currentColor"
+       class="ColorScheme-Text"
+       id="path5" />
+    <path
+       d="m 1,8.015 a 6.99,6.99 0 0 0 3.581,6.114 L 4.9,10.409 5.91,11.615 7.715,8 H 4 L 7.16,1.066 A 6.999,6.999 0 0 0 1,8.016"
+       style="fill:currentColor"
+       class="ColorScheme-Text"
+       id="path7" />
+  </g>
+</svg>

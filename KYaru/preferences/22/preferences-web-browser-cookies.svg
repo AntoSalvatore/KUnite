@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg8"
+   sodipodi:docname="preferences-system-timeascasacss.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="35.25"
+     inkscape:cx="10.964539"
+     inkscape:cy="9.4751773"
+     inkscape:window-width="1308"
+     inkscape:window-height="742"
+     inkscape:window-x="58"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#727272; } .ColorScheme-Highlight { color:#5294e2; }</style>
+  </defs>
+  <g
+     transform="matrix(0.75,0,0,0.75,-487,-133)"
+     fill="#dfdfdf"
+     id="g6">
+    <path
+       d="m 660,180 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,1 a 7,7 0 0 1 7,7 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 z"
+       style="fill:currentColor"
+       class="ColorScheme-Text"
+       id="path7" />
+  </g>
+  <circle
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     id="path393"
+     cx="5.590044"
+     cy="5.1921153"
+     r="0.75" />
+  <circle
+     style="fill:currentColor"
+       class="ColorScheme-Text"
+     id="path393-3"
+     cx="8.75"
+     cy="4.7665834"
+     r="0.75" />
+  <circle
+     style="fill:currentColor"
+       class="ColorScheme-Text"
+     id="path393-6"
+     cx="7.25"
+     cy="7.2340426"
+     r="0.75" />
+  <circle
+     style="fill:currentColor"
+       class="ColorScheme-Text"
+     id="path393-7"
+     cx="4.3169942"
+     cy="7.9840426"
+     r="0.75" />
+  <circle
+     style="fill:currentColor"
+       class="ColorScheme-Text"
+     id="path393-5"
+     cx="10.695035"
+     cy="6.6921153"
+     r="0.75" />
+  <circle
+     style="fill:currentColor"
+       class="ColorScheme-Text"
+     id="path393-35"
+     cx="5.8169942"
+     cy="10.439716"
+     r="0.75" />
+  <circle
+     style="fill:currentColor"
+       class="ColorScheme-Text"
+     id="path393-62"
+     cx="9.2198572"
+     cy="9.2854614"
+     r="0.75" />
+  <circle
+     style="fill:currentColor"
+       class="ColorScheme-Text"
+     id="path393-9"
+     cx="8.4698572"
+     cy="11.734043"
+     r="0.75" />
+  <circle
+     style="fill:currentColor"
+       class="ColorScheme-Text"
+     id="path393-1"
+     cx="11.445035"
+     cy="10.035461"
+     r="0.75" />
+</svg>

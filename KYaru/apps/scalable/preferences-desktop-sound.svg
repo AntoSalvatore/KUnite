@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg6"
+   sodipodi:docname="preferences-desktop-sound.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="11.71076"
+     inkscape:cx="4.056099"
+     inkscape:cy="4.6538399"
+     inkscape:window-width="1306"
+     inkscape:window-height="709"
+     inkscape:window-x="60"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     transform="matrix(0.75,0,0,0.75,-487.0379,-193.12025)"
+     id="g4">
+    <path
+       d="m 665.51,260.04 c -0.11528,-0.008 -0.25052,0.002 -0.41015,0.0156 l -7.209,1.125 c -0.81332,0.0828 -0.90176,0.46246 -0.89453,0.93554 v 9.5195 c -0.41338,-0.27155 -0.85577,-0.46484 -1.4453,-0.46484 -0.75911,0 -1.2123,0.29098 -1.4863,0.67383 -0.27403,0.38285 -0.36524,0.86524 -0.36524,1.2383 0,0.44983 0.15511,0.92907 0.48829,1.2949 0.33318,0.36583 0.84551,0.62304 1.582,0.62305 0.83169,0 1.4154,-0.23199 1.7461,-0.68555 0.26039,-0.35711 0.40565,-0.83534 0.45703,-1.4238 0.007,-0.0714 0.0111,-0.14515 0.0156,-0.2207 0.004,-0.0599 0.003,-0.1018 0.004,-0.17188 h 0.004 v -7.7031 c 0.0221,-0.61938 0.58398,-0.71094 0.58398,-0.71094 l 5.8535,-0.91406 c 0.56193,-0.17179 0.5625,0.52343 0.5625,0.52343 v 6.9414 c -0.41338,-0.27156 -0.85577,-0.46484 -1.4453,-0.46485 -0.75911,0 -1.2123,0.29098 -1.4863,0.67383 -0.27403,0.38285 -0.36524,0.86525 -0.36524,1.2383 0,0.44983 0.15511,0.92907 0.48829,1.2949 0.33318,0.36585 0.84551,0.62303 1.582,0.62304 0.83169,0 1.4154,-0.23198 1.7461,-0.68554 0.26039,-0.35711 0.40565,-0.83535 0.45703,-1.4238 0.007,-0.0714 0.0111,-0.14515 0.0156,-0.22071 0.004,-0.0599 0.003,-0.1018 0.004,-0.17187 h 0.004 v -10.568 c 0.0119,-0.68564 -0.14049,-0.86619 -0.48633,-0.89062 z"
+       color="#000000"
+       color-rendering="auto"
+       dominant-baseline="auto"
+       fill="#dfdfdf"
+       fill-rule="evenodd"
+       image-rendering="auto"
+       shape-rendering="auto"
+       solid-color="#000000"
+       style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal"
+       id="path2" />
+  </g>
+</svg>

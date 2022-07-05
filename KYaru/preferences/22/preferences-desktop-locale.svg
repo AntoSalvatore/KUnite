@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg14"
+   sodipodi:docname="preferences-desktop-locale.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#727272; } .ColorScheme-Highlight { color:#5294e2; }</style>
+ </defs>
+  <g
+     transform="matrix(0.75,0,0,0.75,-456.875,-118.125)"
+     fill="#dfdfdf"
+     shape-rendering="auto"
+     id="g12">
+    <path
+       d="m 620.5,160 c -4.1362,0 -7.5,3.3638 -7.5,7.5 0,4.1362 3.3638,7.5 7.5,7.5 4.1362,0 7.5,-3.3638 7.5,-7.5 0,-4.1362 -3.3638,-7.5 -7.5,-7.5 z m 0,1 c 3.5958,0 6.5,2.9042 6.5,6.5 0,3.5958 -2.9042,6.5 -6.5,6.5 -3.5958,0 -6.5,-2.9042 -6.5,-6.5 0,-3.5958 2.9042,-6.5 6.5,-6.5 z"
+       style="fill:currentColor" class="ColorScheme-Text"/>
+    <g
+       fill-rule="evenodd"
+       id="g10">
+      <path
+         d="m 613.5,167 v 1 h 14 v -1 z"
+        style="fill:currentColor" class="ColorScheme-Text"/>
+      <path
+         d="m 620.85,160.15 -0.70704,0.70704 c 2.074,2.074 3.1092,4.5203 3.084,6.6816 -0.0256,2.1964 -1.0076,4.5349 -3.084,6.6113 l 0.70704,0.70704 c 2.2312,-2.2313 3.348,-4.8198 3.377,-7.3066 0.029,-2.4865 -1.1433,-5.1667 -3.377,-7.4004 z"
+         style="fill:currentColor" class="ColorScheme-Text"/>
+      <path
+         d="m 620.15,160.15 c -2.2336,2.2337 -3.406,4.9139 -3.377,7.4004 0.029,2.4868 1.1457,5.0754 3.377,7.3066 l 0.70704,-0.70704 c -2.0764,-2.0764 -3.0584,-4.415 -3.084,-6.6113 -0.0252,-2.1614 1.01,-4.6076 3.084,-6.6816 z"
+         style="fill:currentColor" class="ColorScheme-Text" />
+    </g>
+  </g>
+</svg>

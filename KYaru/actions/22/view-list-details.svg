@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new"
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="view-list-details.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#727272; } .ColorScheme-Highlight { color:#5294e2; }</style>
+ </defs>
+  <g
+     fill="#f2f2f7"
+     id="g20"
+     transform="matrix(1.1,0,0,1.1,-0.79997901,-0.80033262)">
+    <rect
+       height="2"
+       ry="0.25"
+       width="2"
+       style="fill:currentColor" class="ColorScheme-Text"
+       x="3.99979"
+       y="4.0033259"
+       id="rect2" />
+    <rect
+       height="2"
+       style="fill:currentColor" class="ColorScheme-Text"
+       ry="0.25"
+       width="2"
+       x="6.9997902"
+       y="4.0033259"
+       id="rect4" />
+    <rect
+       height="2"
+       ry="0.25"
+       width="2"
+       x="9.9997902"
+       style="fill:currentColor" class="ColorScheme-Text"
+       y="4.0033259"
+       id="rect6" />
+    <rect
+       height="2"
+       ry="0.25"
+       width="2"
+       style="fill:currentColor" class="ColorScheme-Text"
+       x="3.99979"
+       y="7.0033259"
+       id="rect8" />
+    <rect
+       height="2"
+       ry="0.25"
+       width="2"
+       style="fill:currentColor" class="ColorScheme-Text"
+       x="6.9997902"
+       y="7.0033259"
+       id="rect10" />
+    <rect
+       height="2"
+       ry="0.25"
+       width="2"
+       style="fill:currentColor" class="ColorScheme-Text"
+       x="9.9997902"
+       y="7.0033259"
+       id="rect12" />
+    <rect
+       height="2"
+       ry="0.25"
+       width="2"
+       x="3.99979"
+       style="fill:currentColor" class="ColorScheme-Text"
+       y="10.003326"
+       id="rect14" />
+    <rect
+       height="2"
+       ry="0.25"
+       width="2"
+       x="6.9997902"
+       style="fill:currentColor" class="ColorScheme-Text"
+       y="10.003326"
+       id="rect16" />
+    <rect
+       style="fill:currentColor" class="ColorScheme-Text"
+       height="2"
+       ry="0.25"
+       width="2"
+       x="9.9997902"
+       y="10.003326"
+       id="rect18" />
+  </g>
+</svg>

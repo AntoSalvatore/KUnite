@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   version="1.1"
+   height="64"
+   id="svg21"
+   sodipodi:docname="dialog-error.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="8.8125001"
+     inkscape:cx="35.007092"
+     inkscape:cy="39.716312"
+     inkscape:window-width="1308"
+     inkscape:window-height="742"
+     inkscape:window-x="58"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3811">
+    <linearGradient
+       id="a"
+       gradientUnits="userSpaceOnUse"
+       x1="80.751999"
+       x2="176.752"
+       y1="11.248002"
+       y2="235.248"
+       gradientTransform="translate(609.38901,103.86364)">
+      <stop
+         offset="0"
+         stop-color="#da1636"
+         id="stop252" />
+      <stop
+         offset="1"
+         stop-color="#f22c42"
+         id="stop254" />
+    </linearGradient>
+    <filter
+       id="b"
+       color-interpolation-filters="sRGB"
+       height="1.024"
+       width="1.024"
+       x="-0.012"
+       y="-0.012">
+      <feGaussianBlur
+         stdDeviation="1.12"
+         id="feGaussianBlur257" />
+    </filter>
+    <filter
+       id="c"
+       color-interpolation-filters="sRGB"
+       height="1.096"
+       width="1.096"
+       x="-0.048"
+       y="-0.048">
+      <feGaussianBlur
+         stdDeviation="4.48"
+         id="feGaussianBlur260" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata3814" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="matrix(1 0 0 1 -736.85718 -157.93361)">
+    <g
+       id="g543"
+       transform="matrix(0.21180918,0,0,0.21180918,612.51214,140.98204)">
+      <circle
+         cx="738.14099"
+         cy="231.11165"
+         filter="url(#c)"
+         opacity="0.1"
+         r="112"
+         id="circle263" />
+      <circle
+         cx="738.14099"
+         cy="229.11165"
+         filter="url(#b)"
+         opacity="0.1"
+         r="112"
+         id="circle265" />
+      <circle
+         cx="738.14099"
+         cy="227.11165"
+         opacity="0.1"
+         r="114"
+         id="circle267" />
+      <circle
+         cx="738.14099"
+         cy="227.11165"
+         fill="url(#a)"
+         r="112"
+         id="circle269"
+         style="fill:url(#a)" />
+      <g
+         fill="#ffffff"
+         id="g277"
+         transform="translate(609.38901,103.86364)">
+        <path
+           d="M 16.752001,132.94391 A 112.5345,112.53445 0 0 0 128.72953,235.248 112.5345,112.53445 0 0 0 240.752,132.94391 Z"
+           opacity="0.05"
+           id="path271" />
+        <path
+           d="M 128.752,11.248003 A 112,112 0 0 0 16.752001,123.248 112,112 0 0 0 16.793021,124.41792 112,112 0 0 1 128.752,13.248003 112,112 0 0 1 240.71098,124.07808 a 112,112 0 0 0 0.041,-0.83008 112,112 0 0 0 -112,-111.999997 z"
+           opacity="0.3"
+           id="path275" />
+      </g>
+      <path
+         d="m 738.14101,339.11164 a 112,112 0 0 1 -112,-112 112,112 0 0 1 0.041,-1.16992 112,112 0 0 0 111.95898,111.16992 112,112 0 0 0 111.95898,-110.83008 112,112 0 0 1 0.041,0.83008 112,112 0 0 1 -112,112 z"
+         opacity="0.2"
+         id="path279" />
+    </g>
+    <rect
+       x="759.03186"
+       y="188.72719"
+       width="19.650667"
+       height="2.4128704"
+       enable-background="new"
+       fill="#ffffff"
+       stroke="#ffffff"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.0496586"
+       id="rect28" />
+  </g>
+</svg>

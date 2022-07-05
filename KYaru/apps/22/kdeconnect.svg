@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1442"
+   sodipodi:docname="phone.svg"
+   inkscape:version="1.2 (1:1.2+202206011326+fc4e4096c5)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:currentColor; } .ColorScheme-Highlight { color:#5294e2; }</style>
+ </defs>
+  <g
+     id="g4829">
+    <path
+       d="m5.5 0c-0.542 0-0.98338 0.064469-1.3594 0.23047a1.72 1.72 0 0 0-0.83789 0.79688c-0.34 0.68-0.30273 1.4727-0.30273 2.4727v9c0 1-0.037266 1.7956 0.30273 2.4746 0.17 0.34 0.46189 0.62792 0.83789 0.79492 0.375 0.166 0.81738 0.23047 1.3594 0.23047h5c0.542 0 0.98338-0.064469 1.3594-0.23047 0.375-0.167 0.66889-0.45592 0.83789-0.79492 0.34-0.68 0.30273-1.4746 0.30273-2.4746v-9c0-1 0.037266-1.7937-0.30273-2.4727a1.72 1.72 0 0 0-0.83789-0.79688c-0.375-0.167-0.81738-0.23047-1.3594-0.23047h-5zm-1.4297 2h7.8594c0.05 0.373 0.070312 0.87 0.070312 1.5v9c0 0.63-0.020312 1.126-0.070312 1.5h-7.8594c-0.05-0.374-0.070312-0.87-0.070312-1.5v-9c0-0.63 0.020312-1.127 0.070312-1.5z"
+       style="fill:currentColor"
+       class="ColorScheme-Text"
+       id="path1440" />
+    <g
+       id="g4821"
+       transform="translate(0.87633,-1.04594)"
+       style="fill:currentColor;fill-opacity:1">
+      <path
+         style="fill:currentColor;stroke-width:0.75;fill-opacity:1"
+         id="path4353"
+         class="ColorScheme-Text"
+         d="m 5.62367,5.67094 c -0.207105,0 -0.375,0.167895 -0.375,0.375 0,0.207105 0.167895,0.375 0.375,0.375 0.207105,0 0.375,-0.167895 0.375,-0.375 0,-0.207105 -0.167895,-0.375 -0.375,-0.375 z" />
+      <path
+         style="fill:currentColor;stroke-width:0.75;fill-opacity:1"
+         id="path4351"
+         class="ColorScheme-Text"
+         d="m 8.24867,5.67094 -0.75,0.75 1.5,1.5 -1.5,1.5 0.75,0.75 1.5,-1.5 0.75,-0.75 -0.75,-0.75 z" />
+      <path
+         style="fill:currentColor;stroke-width:0.75;fill-opacity:1"
+         id="path4349"
+         class="ColorScheme-Text"
+         d="m 4.49867,7.92094 c -0.41421,0 -0.75,0.33579 -0.75,0.75 0,0.41421 0.33579,0.75 0.75,0.75 0.41421,0 0.75,-0.33579 0.75,-0.75 0,-0.41421 -0.33579,-0.75 -0.75,-0.75 z" />
+      <path
+         style="fill:currentColor;stroke-width:0.75;fill-opacity:1"
+         id="path4327"
+         class="ColorScheme-Text"
+         d="m 6.37367,10.17094 c -0.6213225,0 -1.125,0.503678 -1.125,1.125 0,0.621323 0.5036775,1.125 1.125,1.125 0.6213225,0 1.125,-0.503677 1.125,-1.125 0,-0.621322 -0.5036775,-1.125 -1.125,-1.125 z" />
+    </g>
+  </g>
+</svg>

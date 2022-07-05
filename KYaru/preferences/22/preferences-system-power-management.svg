@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg8"
+   sodipodi:docname="preferences-system-power-management.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#727272; } .ColorScheme-Highlight { color:#5294e2; }</style>
+ </defs>
+  <g
+     transform="matrix(0.75,0,0,0.75,-396.875,-133.125)"
+     fill="#dfdfdf"
+     id="g6">
+    <path
+       d="m 540,192.5 2.5004,-5.5005 h -1.5 v -4.5 L 538.5,188 h 1.5 z"
+       style="fill:currentColor" class="ColorScheme-Text"/>
+    <path
+       d="m 540.5,180 c -4.1362,0 -7.5,3.3638 -7.5,7.5 0,4.1362 3.3638,7.5 7.5,7.5 4.1362,0 7.5,-3.3638 7.5,-7.5 0,-4.1362 -3.3638,-7.5 -7.5,-7.5 z m 0,1 c 3.5958,0 6.5,2.9042 6.5,6.5 0,3.5958 -2.9042,6.5 -6.5,6.5 -3.5958,0 -6.5,-2.9042 -6.5,-6.5 0,-3.5958 2.9042,-6.5 6.5,-6.5 z"
+       style="fill:currentColor" class="ColorScheme-Text"/>
+  </g>
+</svg>

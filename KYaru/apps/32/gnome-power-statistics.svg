@@ -1,0 +1,23 @@
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient3747" x1="336" x2="336" y1="160.5" y2="135.5" gradientTransform="translate(-320,-132)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f7f7f7" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1004-8" x1="344" x2="344" y1="65.144" y2="102.86" gradientTransform="matrix(0 -1.0476 .95458 0 263.82 444.37)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath994-1">
+   <path d="m335.73 62c-8.8242 0-9.7736 0.90635-9.7304 9.7484v12.252 12.252c-0.0433 8.842 0.90622 9.7484 9.7304 9.7484h16.539c8.8242 0 9.7304-0.90625 9.7304-9.7484v-12.252-12.252c0-8.8421-0.90622-9.7484-9.7304-9.7484z" color="#000000" fill="#cdcdcd"/>
+  </clipPath>
+ </defs>
+ <path d="m31 11.194c0-1.421-0.0308-2.5488-0.19141-3.5059-0.16064-0.95703-0.4726-1.7915-1.0918-2.4121s-1.4561-0.93647-2.4141-1.0957c-0.95795-0.15924-2.087-0.18666-3.5117-0.17969h-7.791-7.7969c-1.4213-7e-3 -2.5495 0.0207-3.5058 0.17969-0.95796 0.15923-1.7949 0.47505-2.4141 1.0957s-0.93115 1.4551-1.0918 2.4121c-0.16065 0.95703-0.19141 2.0849-0.19141 3.5059v11.615c0 1.421 0.0307 2.5467 0.19141 3.502 0.16075 0.95527 0.47425 1.7878 1.0938 2.4062 0.6195 0.61845 1.4536 0.93134 2.4102 1.0918 0.95653 0.16046 2.084 0.19141 3.5078 0.19141h7.7969 7.7969c1.4238 0 2.5513-0.031 3.5078-0.19141 0.95653-0.16045 1.7906-0.47334 2.4102-1.0918 0.61951-0.61846 0.933-1.451 1.0938-2.4062 0.16076-0.95527 0.19141-2.081 0.19141-3.502z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".1" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m30.5 10.075c0-5.5618-0.58409-6.6037-6.2823-6.5745h-8.2176-8.2178c-5.6982-0.0293-6.2823 1.0127-6.2823 6.5745v11.85c0 5.5604 0.58403 6.5745 6.2823 6.5745h8.2178 8.2176c5.6982 0 6.2823-1.0141 6.2823-6.5745z" color="#000000" fill="url(#linearGradient3747)"/>
+ <path d="m1.5 9.5344h4.9524c5.3041-0.0397 3.0365 12.65 7.0042 12.975h1.2282 1.7282c4.496 0 2.6941-14.972 5.8366-14.972 2.9736 0 2.4023 9.569 4.2713 9.569 1.5858 0 1.0651-4.5949 2.505-4.5949h1.4741" color="#000000" color-rendering="auto" fill="none" image-rendering="auto" opacity=".5" shape-rendering="auto" solid-color="#000000" stroke="#1a7fd4" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
+ <path d="m30.5 22.608h-2.4523c-1.44 0-1.5714-6.1962-3.1572-6.1962-1.5231 0-0.68145 1.4856-2.4481 1.4597-1.6947-0.0249-0.7195-7.7824-4.3989-7.5176h-1.2282-1.2282c-4.496 0-2.6941 13.331-5.8366 13.331-2.9736 0-2.4023-8.5435-4.2713-8.5435-1.5858 0-1.0651 4.3067-2.505 4.3067h-1.4741" color="#000000" color-rendering="auto" fill="none" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#da1636" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
+ <path d="m30.5 10.075c0-5.5618-0.58409-6.6037-6.2823-6.5745h-8.2176-8.2178c-5.6982-0.0293-6.2823 1.0127-6.2823 6.5745v11.85c0 5.5604 0.58403 6.5745 6.2823 6.5745h8.2178 8.2176c5.6982 0 6.2823-1.0141 6.2823-6.5745z" color="#000000" fill="none" opacity=".4" stroke="#000"/>
+ <path transform="matrix(0 .66664 -.63636 0 69.455 -213.32)" d="m335.73 62c-8.8242 0-9.7736 0.90635-9.7304 9.7484v12.252 12.252c-0.0433 8.842 0.90622 9.7484 9.7304 9.7484h16.539c8.8242 0 9.7304-0.90625 9.7304-9.7484v-12.252-12.252c0-8.8421-0.90622-9.7484-9.7304-9.7484z" clip-path="url(#clipPath994-1)" color="#000000" fill="none" opacity=".7" stroke="url(#linearGradient1004-8)" stroke-width="3.0707"/>
+</svg>

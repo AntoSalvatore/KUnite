@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="preferences-system-bluetooth.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#727272; } .ColorScheme-Highlight { color:#5294e2; }</style>
+ </defs>
+  <g
+     fill="#dfdfdf"
+     id="g8"
+     transform="matrix(0.75,0,0,0.75,2.1249925,1.9999937)">
+    <path
+       d="m 5.6621,0 c -0.839,0.01 -1.4502,-0.020188 -1.9512,0.25781 -0.251,0.138 -0.45055,0.37106 -0.56055,0.66406 -0.112,0.292 -0.15039,0.64012 -0.15039,1.0781 v 12 c 0,0.438 0.039438,0.78612 0.14844,1.0781 0.11,0.293 0.30859,0.52802 0.55859,0.66602 0.503,0.277 1.1161,0.24586 1.9551,0.25586 h 5.6758 c 0.839,-0.01 1.4511,0.02114 1.9531,-0.25586 0.251,-0.138 0.45055,-0.37302 0.56055,-0.66602 0.11,-0.292 0.14844,-0.64012 0.14844,-1.0781 v -12 c 0,-0.438 -0.03944,-0.78612 -0.14844,-1.0781 A 1.253,1.253 0 0 0 13.29099,0.25781 C 12.78899,-0.02019 12.17689,0.01 11.33789,0 h -5.6738 -0.00195 z M 8,1.3027 12.2402,5.541 9.3007,8.0098 12.2402,10.4786 8,14.7169 V 9.1036 L 5.5723,11.1427 4.92777,10.37708 7.74617,8.00988 4.92777,5.64268 5.5723,4.87706 8,6.91616 v -5.6133 z"
+       style="fill:currentColor" class="ColorScheme-Text"/>
+    <path
+       d="m 9,3.717 v 3.24 l 1.76,-1.48 z"
+       style="fill:currentColor" class="ColorScheme-Text"/>
+    <path
+       d="m 9,9.062 v 3.24 l 1.76,-1.759 z"
+       style="fill:currentColor" class="ColorScheme-Text"/>
+  </g>
+</svg>

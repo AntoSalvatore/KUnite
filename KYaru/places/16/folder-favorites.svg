@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg7"
+   sodipodi:docname="bookmarks-organize.svg"
+   inkscape:version="1.2 (1:1.2+202206011326+fc4e4096c5)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.625"
+     inkscape:cx="10.184397"
+     inkscape:cy="11.06383"
+     inkscape:window-width="1308"
+     inkscape:window-height="742"
+     inkscape:window-x="58"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#727272; } .ColorScheme-Highlight { color:#5294e2; }</style>
+  </defs>
+  <path
+     d="m 0.4,3.25795 v 8.55 c 0,1.9 0.95,1.9 2.85,1.9 H 6.1 c 0.92625,0 1.5219,0.76 1.5219,0.76 l 0.3705,0.4921 0.38,-0.4845 c 0,0 0.6194,-0.75335 1.5314,-0.7676 H 12.75 c 1.9,0 2.85,0 2.85,-1.9 v -8.55 c 0,-1.9 -0.95,-1.9 -1.9,-1.9 v 0.95 c 0,0 0.95,0 0.95,0.95 v 8.55 c 0,0.95 -0.95,0.95 -1.9,0.95 H 9.8924 c -0.97375,0.01425 -1.5428,0.4541 -1.8886,0.7828 A 2.6524,2.6524 0 0 0 6.1,12.75795 H 3.25 c -0.95,0 -1.9,0 -1.9,-0.95 v -8.55 c 0,-0.95 0.95,-0.95 1.9,-0.95 H 6.1 c 0.93385,0 1.52,0.75905 1.52,0.75905 L 8,3.57525 8.38,3.067 c 0,0 0.58615,-0.75905 1.52,-0.75905 v 6.65 l 2.85,-0.95 v -6.65 H 9.9 C 8.9158,1.35795 8.34675,1.7997 8,2.13695 7.65325,1.7997 7.0842,1.35795 6.1,1.35795 H 3.25 c -1.9,0 -2.85,0 -2.85,1.9 z m 2.85,0.95 v 0.95 H 6.1 v -0.95 z m 0,1.9 v 0.95 H 6.1 v -0.95 z m 0,1.9 v 0.95 H 6.1 v -0.95 z m 0,1.9 v 0.95 H 6.1 v -0.95 z"
+     style="fill:currentColor;stroke-width:0.95"
+     class="ColorScheme-Text"
+     id="path5" />
+</svg>
