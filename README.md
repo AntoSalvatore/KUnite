@@ -4,6 +4,7 @@
 This themes provides support for KDE Plasma releases from Ubuntu LTS.
 
 ## Preview
+![files-preview](https://user-images.githubusercontent.com/44932841/177897911-e83425fd-dd27-45d5-ae58-fb5836af6cc5.png)
 ![konsole](https://user-images.githubusercontent.com/44932841/177895001-7ead1bc3-e73b-409c-a93b-2705a1f37f12.png)
 ![kate](https://user-images.githubusercontent.com/44932841/177895042-8ea8fd80-4dbf-4308-9f87-8d4863a59054.png)
 
