@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "AntonioSalvatore"
+            }
+        ],
+        "Category": "",
+        "Description": "Yaru theme for KDE Plasma",
+        "Id": "KYaru",
+        "License": "LGPL",
+        "Name": "KYaru",
+        "Version": "1.0",
+        "Website": "https://github.com/AntoSalvatore"
+    },
+    "X-Plasma-API": "5.0"
+}
